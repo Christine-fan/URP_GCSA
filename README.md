@@ -1,5 +1,3 @@
-# URP_GCSA
-
 This repository contains datasets for the paper titled "Exact and hybrid heuristic methods for the Unmanned Aerial Vehicle Routing Problem Considering Ground Control Station Allocation".
 
 The test instances are divided into two groups: Group A and Group B.
@@ -35,6 +33,10 @@ fleet_max_working_time: Maximum flight endurance of each UAV
 S: Number of ground control stations (GCSs)
 
 S_location: Position coordinates of GCSs
+
+RS: Maximum control radius of each GCS
+
+d: Average time interval between consecutive monitoring tasks
 
 RS: Maximum control radius of each GCS
 
